@@ -1,4 +1,7 @@
-# 🌿 BaratieFit
+<img width="677" height="369" alt="logo" src="https://github.com/user-attachments/assets/a4ac8ac6-b8f3-45e4-8f67-d4d22af37867" />
+
+----
+# BaratieFit
 
 ## Link dos repositórios
 - [Banco de Dados](https://github.com/hugolab-0/Banco-de-Dados-Baratie)
