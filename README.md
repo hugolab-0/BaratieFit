@@ -11,7 +11,7 @@
 - [Front-end ADM](https://github.com/hugolab-0/Frontend-Baratie)
 
 ## Figma
-https://www.figma.com/design/ojC5YyYJe9x2FqZCuwj9Mk/Sem-t%C3%ADtulo?node-id=0-1&t=2DLCvoyQV1qh3e9N-1
+[https://www.figma.com/design/ojC5YyYJe9x2FqZCuwj9Mk/Sem-t%C3%ADtulo?node-id=0-1&t=2DLCvoyQV1qh3e9N-1](https://www.figma.com/design/OY6YjhmlPk8uMF16PwDtwb/Sem-t%C3%ADtulo?node-id=2002-2&t=2DLCvoyQV1qh3e9N-1)
 
 ## Documentações do Projeto
 - [Projeto Integrado](https://github.com/user-attachments/files/28576806/Projeto.Integrado.segundo.semestre.1.pdf)
