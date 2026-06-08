@@ -1,4 +1,4 @@
-<img width="600" height="335" alt="logo" src="https://github.com/user-attachments/assets/a4ac8ac6-b8f3-45e4-8f67-d4d22af37867" />
+<img width="500" height="335" alt="logo" src="https://github.com/user-attachments/assets/a4ac8ac6-b8f3-45e4-8f67-d4d22af37867" />
 
 ----
 # BaratieFit
