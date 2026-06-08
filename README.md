@@ -1,4 +1,4 @@
-<img width="700" height="300" alt="logo" src="https://github.com/user-attachments/assets/a4ac8ac6-b8f3-45e4-8f67-d4d22af37867" />
+<img width="898" height="182" alt="Captura de tela 2026-06-08 084439" src="https://github.com/user-attachments/assets/7ec8a5e9-9b7c-4afe-8d87-1cd9df9a83c3" />
 
 ----
 # BaratieFit
