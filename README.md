@@ -6,5 +6,7 @@
 - [Back-end ADM](https://github.com/hugolab-0/Backend-Baratie-fit)
 - [Front-end Usuario](https://github.com/Lucas-Kolle/BaratieFit-front-users)
 - [Front-end ADM](https://github.com/hugolab-0/Frontend-Baratie)
+
+  ## Documentações do Projeto
 - [Projeto Integrado](https://github.com/user-attachments/files/28576806/Projeto.Integrado.segundo.semestre.1.pdf)
 
