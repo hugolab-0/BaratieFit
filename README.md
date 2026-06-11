@@ -12,7 +12,7 @@ A solução consiste em um site de marmitas fitness, com foco na apresentação 
 - [Banco de Dados](https://github.com/hugolab-0/Banco-de-Dados-Baratie)
 - [Back-end](https://github.com/hugolab-0/Backend-Baratie-fit)
 - [Front-end-user](https://github.com/hugolab-0/Frontend-Baratie)
-- [Front-end-adm](https://github.com/hugolab-0/Frontend-Baratie)
+- [Front-end-adm]([https://github.com/hugolab-0/Frontend-Baratie](https://github.com/hugolab-0/Frontend-Baratie-ADM))
 
 ##  Orientadores
 - Staff Software Engineer Frontend [@Fernando Leonid](https://github.com/fernandoleonid)
